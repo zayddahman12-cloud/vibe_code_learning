@@ -1,0 +1,25 @@
+{
+  "name": "vibe_code_learning",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+ "scripts": {
+  "test": "vitest run"
+},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zayddahman12-cloud/vibe_code_learning.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/zayddahman12-cloud/vibe_code_learning/issues"
+  },
+  "homepage": "https://github.com/zayddahman12-cloud/vibe_code_learning#readme",
+  "devDependencies": {
+    "typescript": "^7.0.2",
+    "vitest": "^5.1.1"
+  }
+}
